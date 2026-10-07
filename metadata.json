@@ -1,0 +1,7 @@
+{
+  "name": "MECHVORTEX 2026 - National Engineering & Cultural Fest",
+  "description": "Official portal for MECHVORTEX 2026 organized by the Department of Mechanical Engineering at Sandip Institute of Technology & Research Centre (SITRC), Nashik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
